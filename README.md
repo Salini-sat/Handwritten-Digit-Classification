@@ -1,1 +1,1 @@
-# Customer-Segmentation
+# Handwritten Digit Classification
